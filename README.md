@@ -1,1 +1,4 @@
-# hazelcast-mapstore-jpa-demo
+# hazelcast-jpa-demo
+
+## Getting started
+```
