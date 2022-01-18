@@ -17,6 +17,7 @@ dependencies {
 	implementation  'org.springframework.data:spring-data-jpa'
 	implementation 'com.zaxxer:HikariCP:4.0.3'
 	implementation 'org.hibernate:hibernate-core:5.4.32.Final'
+	implementation 'org.postgresql:postgresql:42.3.1'
 
 	implementation 'com.hazelcast:hazelcast-all:4.1'
 
